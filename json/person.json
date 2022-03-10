@@ -1,0 +1,28 @@
+{
+  "name_suffix": "Sr",
+  "first_name": "Yetta",
+  "last_name": "Giabucci",
+  "drugs": [
+    "Pyrithione zinc",
+    "paroxetine hydrochloride",
+    "pramipexole dihydrochloride",
+    "TOPIRAMATE",
+    "Olanzapine",
+    "NOT APPLICABLE",
+    "ADENOSINE DIMETHICONE",
+    "Glipizide",
+    "imipenem and cilastatin sodium",
+    "Naproxen Sodium"
+  ],
+  "email": "ybamber2@canalblog.com",
+  "address": {
+    "country": "Japan",
+    "city": "Jōetsu",
+    "street": "Meadow Valley",
+    "house_number": "106"
+  },
+  "parents": {
+    "parent_one": { "first_name": "Maéna", "last_name": "Edgerton" },
+    "parent_two": { "last_name": "Bamber", "first_name": "Cléa" }
+  }
+}
