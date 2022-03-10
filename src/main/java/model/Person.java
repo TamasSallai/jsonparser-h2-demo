@@ -11,6 +11,7 @@ public class Person {
     private String lastName;
     private List<String> drugs;
     private String email;
+    private String gender;
     private Address address;
     private Map<String, Person> parents;
 
@@ -59,6 +60,14 @@ public class Person {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 
     public Address getAddress() {
